@@ -1,2 +1,2 @@
 # validacpf
-Código simples para validação de CPFcom javascript nativo
+Código simples para validação de CPF com javascript nativo
